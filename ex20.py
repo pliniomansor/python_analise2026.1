@@ -7,3 +7,4 @@ else:
     imposto = sal * 0.27
 salfinal = sal - imposto    
 print(f"Salário {sal}, imposto - {imposto} , Salário Bruto {salfinal}")
+print("teste git")
